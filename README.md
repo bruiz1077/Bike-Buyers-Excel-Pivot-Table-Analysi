@@ -1,6 +1,5 @@
 # Bike-Buyers-Excel-Pivot-Table-Analysis
 
-# 🚴‍♂️ Bike Buyers – Excel Pivot Table Analysis
 
 This project analyzes demographic and behavioral factors influencing bike purchases using Excel. It demonstrates advanced use of pivot tables, calculated fields, and visual dashboards to uncover trends across income, age, commute distance, and region.
 
