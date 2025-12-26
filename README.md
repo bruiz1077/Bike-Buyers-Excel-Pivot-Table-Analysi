@@ -25,7 +25,7 @@ The dataset includes 538 customer records with attributes like:
 
 ### 1. Raw Dataset Preview  
 Shows cleaned and structured customer data used for analysis.  
-![Raw Dataset](images/raw_dataset.png)
+![Raw Dataset](Bike-Buyers-Excel-Pivot-Table-Analysis/raw_dataset.png)
 
 ### 2. Age Bracket Classification  
 Used conditional logic to segment customers into Adolescent, Middle Age, and Old.  
