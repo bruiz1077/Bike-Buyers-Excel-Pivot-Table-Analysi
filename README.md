@@ -54,3 +54,12 @@ Combines filters and charts into a single view for dynamic exploration.
 ---
 
 ## 📦 Folder Structure
+excel-bike-buyer-analysis/
+│── README.md
+│── bike_buyers.xlsx
+└── images/
+    ├── raw_dataset.png
+    ├── avg_income_chart.png
+    ├── commute_chart.png
+    ├── age_bracket_chart.png
+    └── bike_sales_dashboard.png
